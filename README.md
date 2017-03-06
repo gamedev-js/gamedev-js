@@ -1,10 +1,14 @@
 # Game Development in Javascript
 
+Things I used when developing WebGL games.
+
 ## WebGL
 
   - API Wrapper
     - [regl](https://github.com/regl-project/regl)
     - [twgl.js](https://github.com/greggman/twgl.js)
+  - Math
+    - [gl-matrix](https://github.com/toji/gl-matrix)
   - Quick Reference
     - [blending](https://threejs.org/examples/#webgl_materials_blending)
     - [blending-custom](https://threejs.org/examples/#webgl_materials_blending_custom)
