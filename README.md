@@ -9,6 +9,9 @@ Things I used when developing WebGL games.
     - [twgl.js](https://github.com/greggman/twgl.js)
   - Math
     - [gl-matrix](https://github.com/toji/gl-matrix)
+  - Loader
+    - [resl](https://github.com/regl-project/resl)
+    - [opentype.js](https://github.com/nodebox/opentype.js)
   - Quick Reference
     - [blending](https://threejs.org/examples/#webgl_materials_blending)
     - [blending-custom](https://threejs.org/examples/#webgl_materials_blending_custom)
