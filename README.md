@@ -9,18 +9,21 @@
     - [blending](https://threejs.org/examples/#webgl_materials_blending)
     - [blending-custom](https://threejs.org/examples/#webgl_materials_blending_custom)
 
-## Guideline
+## Data & Pipeline
 
-  - [Airbnb: JavaScript Style Guide](https://github.com/airbnb/javascript)
-  - [JavaScript SDK Design Guide](http://sdk-design.js.org/)
-  - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+  - [glTF](https://github.com/KhronosGroup/glTF)
+  - [msdfgen](https://github.com/Chlumsky/msdfgen)
+  - [cmft](https://github.com/dariomanesku/cmft)
+  - [IBLBaker](https://github.com/derkreature/IBLBaker)
+  - [aobaker](https://github.com/prideout/aobaker)
+  - [LuminanceHDR](https://github.com/LuminanceHDR/LuminanceHDR)
+  - [envtools](https://github.com/cedricpinson/envtools)
 
-## Terminal
+## Debug Tools
 
-  - [bash-concurrent](https://github.com/gamedev-js/bash-concurrent)
-
-## devtools
-
+  - [insight](https://github.com/3Dparallax/insight)
+  - [WebGL-Inspector](http://benvanik.github.io/WebGL-Inspector/)
+  - [vector-devtools](https://github.com/disjukr/vector-devtools)
   - [devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend)
   - [devtools source in chromium](https://chromium.googlesource.com/chromium/src.git/+/master/third_party/WebKit/Source/devtools)
 
@@ -30,6 +33,16 @@
   - [headless-gl](https://github.com/stackgl/headless-gl)
   - [gl-shader-output](https://github.com/Jam3/gl-shader-output)
   - [texture-tester](http://toji.github.io/texture-tester/)
+
+## Terminal
+
+  - [bash-concurrent](https://github.com/gamedev-js/bash-concurrent)
+
+## Guideline
+
+  - [Airbnb: JavaScript Style Guide](https://github.com/airbnb/javascript)
+  - [JavaScript SDK Design Guide](http://sdk-design.js.org/)
+  - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
 ## Debug Tips
 
