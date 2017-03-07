@@ -19,12 +19,21 @@ Things I used when developing WebGL games.
 ## Data & Pipeline
 
   - [glTF](https://github.com/KhronosGroup/glTF)
-  - [msdfgen](https://github.com/Chlumsky/msdfgen)
-  - [cmft](https://github.com/dariomanesku/cmft)
-  - [IBLBaker](https://github.com/derkreature/IBLBaker)
-  - [aobaker](https://github.com/prideout/aobaker)
-  - [LuminanceHDR](https://github.com/LuminanceHDR/LuminanceHDR)
-  - [envtools](https://github.com/cedricpinson/envtools)
+  - Rendering
+    - [msdfgen](https://github.com/Chlumsky/msdfgen)
+    - [cmft](https://github.com/dariomanesku/cmft)
+    - [IBLBaker](https://github.com/derkreature/IBLBaker)
+    - [aobaker](https://github.com/prideout/aobaker)
+    - [LuminanceHDR](https://github.com/LuminanceHDR/LuminanceHDR)
+    - [envtools](https://github.com/cedricpinson/envtools)
+  - Scene Design
+    - [webglstudio.js](https://github.com/jagenjo/webglstudio.js)
+
+## Tools Development
+
+  - [electron-utils](https://github.com/electron-utils)
+  - [SonyWWS/ATF](https://github.com/SonyWWS/ATF)
+  - [litegraph.js](https://github.com/jagenjo/litegraph.js)
 
 ## Debug Tools
 
