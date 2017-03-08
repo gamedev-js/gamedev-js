@@ -62,4 +62,4 @@ Things I used when developing WebGL games.
 
 ## Debug Tips
 
-  - [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_deviced)
+  - [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
