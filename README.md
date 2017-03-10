@@ -67,11 +67,13 @@ Things I used when developing WebGL games.
 
 ## Debug
 
-  - [insight](https://github.com/3Dparallax/insight)
   - [WebGL-Inspector](http://benvanik.github.io/WebGL-Inspector/)
-  - [vector-devtools](https://github.com/disjukr/vector-devtools)
-  - [devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend)
-    - [devtools source in chromium](https://chromium.googlesource.com/chromium/src.git/+/master/third_party/WebKit/Source/devtools)
+  - [glsl-numerify](https://github.com/realazthat/glsl-numerify)
+  - Devtools
+    - [insight](https://github.com/3Dparallax/insight)
+    - [vector-devtools](https://github.com/disjukr/vector-devtools)
+    - [devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend)
+      - [devtools source in chromium](https://chromium.googlesource.com/chromium/src.git/+/master/third_party/WebKit/Source/devtools)
   - Mobile
     - [eruda](https://github.com/liriliri/eruda)
     - [vConsole](https://github.com/WechatFE/vConsole)
