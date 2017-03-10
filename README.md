@@ -2,7 +2,7 @@
 
 Things I used when developing WebGL games.
 
-NOTE: This is **NOT** another `awesome-*` repo which contains full list of what ever they can. The list below are things I really used and evaluated during the time I developing WebGL games and libraries. It will not growing too fast and if a solution is proof better than others, I will delete the losing one to keep the page delicate.
+**NOTE:** This is **NOT** another `awesome-*` repo which contains a huge list of what ever they can. The list below are things I really used and evaluated during my development of WebGL games and libraries. It will not growing too fast and I'm trying to remove seldom used, out-of-date stuffs when there is a better alternative.
 
 ## WebGL
 
