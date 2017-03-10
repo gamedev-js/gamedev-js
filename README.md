@@ -50,8 +50,8 @@ Things I used when developing WebGL games.
 
 ## Performance Monitor
 
- - [fpsmeter](https://github.com/darsain/fpsmeter)
  - [memory-stats.js](https://github.com/paulirish/memory-stats.js)
+ - [fpsmeter](https://github.com/darsain/fpsmeter)
  - [stats.js](https://github.com/mrdoob/stats.js)
  - [rstats](https://github.com/spite/rstats)
 
