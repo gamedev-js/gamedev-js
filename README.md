@@ -17,6 +17,10 @@ Things I used when developing WebGL games.
   - Quick Reference
     - [blending](https://threejs.org/examples/#webgl_materials_blending)
     - [blending-custom](https://threejs.org/examples/#webgl_materials_blending_custom)
+  - Platform Support
+    - [WebGL Report](http://webglreport.com/)
+    - [WebGL Texture Tester](http://toji.github.io/texture-tester/)
+    - [WebGL Stats](http://webglstats.com/)
 
 ## Build Tools
 
@@ -60,7 +64,6 @@ Things I used when developing WebGL games.
   - [faker.js](https://github.com/Marak/faker.js)
   - [headless-gl](https://github.com/stackgl/headless-gl)
   - [gl-shader-output](https://github.com/Jam3/gl-shader-output)
-  - [texture-tester](http://toji.github.io/texture-tester/)
 
 ## Debug
 
