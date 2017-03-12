@@ -14,6 +14,9 @@ Things I used when developing WebGL games.
   - Loader
     - [resl](https://github.com/regl-project/resl)
     - [opentype.js](https://github.com/nodebox/opentype.js)
+  - Geometry
+    - [earcut](https://github.com/mapbox/earcut)
+    - [lineclip](https://github.com/mapbox/lineclip)
   - Quick Reference
     - [blending](https://threejs.org/examples/#webgl_materials_blending)
     - [blending-custom](https://threejs.org/examples/#webgl_materials_blending_custom)
