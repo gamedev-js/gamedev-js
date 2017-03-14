@@ -32,6 +32,7 @@ Things I used when developing WebGL games.
     - [EventEmitter3](https://github.com/primus/eventemitter3)
   - Input
     - [input.js](http://github.com/gamedev-js/input.js)
+    - [hammer.js](https://github.com/hammerjs/hammer.js)
 
 ## Build Tools
 
