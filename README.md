@@ -30,6 +30,8 @@ Things I used when developing WebGL games.
   - Event
     - [EventEmitter2](https://github.com/asyncly/EventEmitter2)
     - [EventEmitter3](https://github.com/primus/eventemitter3)
+  - Input
+    - [input.js](http://github.com/gamedev-js/input.js)
 
 ## Build Tools
 
@@ -70,6 +72,7 @@ Things I used when developing WebGL games.
 
 ## Test Utils
 
+  - [preview-server](https://github.com/gamedev-js/preview-server)
   - [faker.js](https://github.com/Marak/faker.js)
   - [headless-gl](https://github.com/stackgl/headless-gl)
   - [gl-shader-output](https://github.com/Jam3/gl-shader-output)
