@@ -4,7 +4,7 @@ Things I used when developing WebGL games.
 
 **NOTE:** This is **NOT** another `awesome-*` repo which contains a huge list of what ever they can. The list below are things I really used and evaluated during my development of WebGL games and libraries. It will not growing too fast and I'm trying to remove seldom used, out-of-date stuffs when there is a better alternative.
 
-## WebGL
+## Graphics (mainly for WebGL)
 
   - API Wrapper
     - [regl](https://github.com/regl-project/regl)
@@ -24,6 +24,12 @@ Things I used when developing WebGL games.
     - [WebGL Report](http://webglreport.com/)
     - [WebGL Texture Tester](http://toji.github.io/texture-tester/)
     - [WebGL Stats](http://webglstats.com/)
+
+## Engine
+
+  - Event
+    - [EventEmitter2](https://github.com/asyncly/EventEmitter2)
+    - [EventEmitter3](https://github.com/primus/eventemitter3)
 
 ## Build Tools
 
