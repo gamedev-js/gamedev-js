@@ -33,6 +33,8 @@ Things I used when developing WebGL games.
   - Input
     - [input.js](http://github.com/gamedev-js/input.js)
     - [hammer.js](https://github.com/hammerjs/hammer.js)
+  - Animation
+    - [fullik](https://github.com/lo-th/fullik)
 
 ## Build Tools
 
@@ -46,6 +48,9 @@ Things I used when developing WebGL games.
     - [three.js editor](https://threejs.org/editor/)
   - Shading
     - [shadergraph](https://github.com/unconed/shadergraph)
+  - Timeline
+    - [neo](https://github.com/lo-th/neo)
+    - [mojs](https://github.com/legomushroom/mojs)
 
 ## Authoring Tools Development
 
@@ -77,6 +82,11 @@ Things I used when developing WebGL games.
   - [faker.js](https://github.com/Marak/faker.js)
   - [headless-gl](https://github.com/stackgl/headless-gl)
   - [gl-shader-output](https://github.com/Jam3/gl-shader-output)
+  - UI
+    - [uil](https://github.com/lo-th/uil)
+    - [control-panel](https://github.com/freeman-lab/control-panel)
+    - [oui](https://github.com/wearekuva/oui)
+    - [dis-gui](https://github.com/wwwtyro/dis-gui)
 
 ## Debug
 
