@@ -35,6 +35,15 @@ Things I used when developing WebGL games.
     - [hammer.js](https://github.com/hammerjs/hammer.js)
   - Animation
     - [fullik](https://github.com/lo-th/fullik)
+  - Particle
+    - [particulate-js](https://github.com/jpweeks/particulate-js)
+  - Physics
+    - [verlet-js](https://github.com/subprotocol/verlet-js)
+    - [cannon.js](https://github.com/schteppe/cannon.js)
+    - [p2.js](https://github.com/schteppe/p2.js)
+    - [Oimo.js](https://github.com/lo-th/Oimo.js)
+    - [ammo.js](https://github.com/kripken/ammo.js/)
+
 
 ## Build Tools
 
@@ -48,9 +57,14 @@ Things I used when developing WebGL games.
     - [three.js editor](https://threejs.org/editor/)
   - Shading
     - [shadergraph](https://github.com/unconed/shadergraph)
+  - Procedural Texture
+    - [texgen.js](https://github.com/mrdoob/texgen.js/)
   - Timeline
     - [neo](https://github.com/lo-th/neo)
+    - [timeline.js](https://github.com/vorg/timeline.js)
     - [mojs](https://github.com/legomushroom/mojs)
+  - Misc
+    - [rot.js](https://github.com/ondras/rot.js)
 
 ## Authoring Tools Development
 
@@ -84,6 +98,7 @@ Things I used when developing WebGL games.
   - [gl-shader-output](https://github.com/Jam3/gl-shader-output)
   - UI
     - [uil](https://github.com/lo-th/uil)
+    - [xgui.js](https://github.com/oosmoxiecode/xgui.js)
     - [control-panel](https://github.com/freeman-lab/control-panel)
     - [oui](https://github.com/wearekuva/oui)
     - [dis-gui](https://github.com/wwwtyro/dis-gui)
