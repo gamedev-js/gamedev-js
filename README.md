@@ -4,6 +4,14 @@ Things I used when developing WebGL games.
 
 **NOTE:** This is **NOT** another `awesome-*` repo which contains a huge list of what ever they can. The list below are things I really used and evaluated during my development of WebGL games and libraries. It will not growing too fast and I'm trying to remove seldom used, out-of-date stuffs when there is a better alternative.
 
+## Quick Reference
+
+  - Math
+    - [Handness in Math](./docs/handness-in-math.md)
+  - Graphics
+    - [blending](https://threejs.org/examples/#webgl_materials_blending)
+    - [blending-custom](https://threejs.org/examples/#webgl_materials_blending_custom)
+
 ## Graphics (mainly for WebGL)
 
   - API Wrapper
@@ -11,15 +19,14 @@ Things I used when developing WebGL games.
     - [twgl.js](https://github.com/greggman/twgl.js)
   - Math
     - [gl-matrix](https://github.com/toji/gl-matrix)
+    - [vecmath](https://github.com/mattdesl/vecmath)
+      - Please read the performance section in vecmath to have a better understanding why Float32Array failed compare to class.
   - Loader
     - [resl](https://github.com/regl-project/resl)
     - [opentype.js](https://github.com/nodebox/opentype.js)
   - Geometry
     - [earcut](https://github.com/mapbox/earcut)
     - [lineclip](https://github.com/mapbox/lineclip)
-  - Quick Reference
-    - [blending](https://threejs.org/examples/#webgl_materials_blending)
-    - [blending-custom](https://threejs.org/examples/#webgl_materials_blending_custom)
   - Platform Support
     - [WebGL Report](http://webglreport.com/)
     - [WebGL Texture Tester](http://toji.github.io/texture-tester/)
