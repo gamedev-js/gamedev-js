@@ -66,6 +66,8 @@ Things I used when developing WebGL games.
     - [shadergraph](https://github.com/unconed/shadergraph)
   - Procedural Texture
     - [texgen.js](https://github.com/mrdoob/texgen.js/)
+    - [simplex-noise.js](https://github.com/jwagner/simplex-noise.js)
+    - [webgl-noise](https://github.com/ashima/webgl-noise)
   - Timeline
     - [neo](https://github.com/lo-th/neo)
     - [timeline.js](https://github.com/vorg/timeline.js)
