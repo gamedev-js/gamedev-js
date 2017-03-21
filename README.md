@@ -18,6 +18,7 @@ Things I used when developing WebGL games.
     - [regl](https://github.com/regl-project/regl)
     - [twgl.js](https://github.com/greggman/twgl.js)
   - Math
+    - [vmath](https://github.com/gamedev-js/vmath)
     - [gl-matrix](https://github.com/toji/gl-matrix)
     - [vecmath](https://github.com/mattdesl/vecmath)
       - Please read the performance section in vecmath to have a better understanding why Float32Array failed compare to class.
