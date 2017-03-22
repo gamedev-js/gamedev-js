@@ -11,6 +11,8 @@ Things I used when developing WebGL games.
   - Graphics
     - [blending](https://threejs.org/examples/#webgl_materials_blending)
     - [blending-custom](https://threejs.org/examples/#webgl_materials_blending_custom)
+  - Misc
+    - [Input Lag](./docs/input-lag.md)
 
 ## Graphics Development (mainly for WebGL)
 
