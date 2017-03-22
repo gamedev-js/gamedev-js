@@ -12,7 +12,7 @@ Things I used when developing WebGL games.
     - [blending](https://threejs.org/examples/#webgl_materials_blending)
     - [blending-custom](https://threejs.org/examples/#webgl_materials_blending_custom)
 
-## Graphics (mainly for WebGL)
+## Graphics Development (mainly for WebGL)
 
   - API Wrapper
     - [regl](https://github.com/regl-project/regl)
@@ -34,7 +34,7 @@ Things I used when developing WebGL games.
     - [WebGL Texture Tester](http://toji.github.io/texture-tester/)
     - [WebGL Stats](http://webglstats.com/)
 
-## Engine
+## Engine Development
 
   - Event
     - [EventEmitter2](https://github.com/asyncly/EventEmitter2)
@@ -53,6 +53,11 @@ Things I used when developing WebGL games.
     - [Oimo.js](https://github.com/lo-th/Oimo.js)
     - [ammo.js](https://github.com/kripken/ammo.js/)
 
+## Authoring Tools Development
+
+  - [electron-utils](https://github.com/electron-utils)
+  - [SonyWWS/ATF](https://github.com/SonyWWS/ATF)
+  - [litegraph.js](https://github.com/jagenjo/litegraph.js)
 
 ## Build Tools
 
@@ -77,17 +82,14 @@ Things I used when developing WebGL games.
   - Misc
     - [rot.js](https://github.com/ondras/rot.js)
 
-## Authoring Tools Development
+## Data Pipeline Tools
 
-  - [electron-utils](https://github.com/electron-utils)
-  - [SonyWWS/ATF](https://github.com/SonyWWS/ATF)
-  - [litegraph.js](https://github.com/jagenjo/litegraph.js)
-
-## Data Pipeline
-
-  - [glTF](https://github.com/KhronosGroup/glTF)
-  - Rendering
+  - Geometry
+    - [glTF](https://github.com/KhronosGroup/glTF)
+    - [meshoptimizer](https://github.com/zeux/meshoptimizer)
+  - Font
     - [msdfgen](https://github.com/Chlumsky/msdfgen)
+  - Lighting
     - [cmft](https://github.com/dariomanesku/cmft)
     - [IBLBaker](https://github.com/derkreature/IBLBaker)
     - [aobaker](https://github.com/prideout/aobaker)
