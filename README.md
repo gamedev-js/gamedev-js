@@ -20,8 +20,9 @@ Things I used when developing WebGL games.
   - Math
     - [vmath](https://github.com/gamedev-js/vmath)
     - [gl-matrix](https://github.com/toji/gl-matrix)
-    - [vecmath](https://github.com/mattdesl/vecmath)
-      - Please read the performance section in vecmath to have a better understanding why Float32Array failed compare to class.
+    - Performance Discussion
+      - Hidden Classes + Inline Caching is faster than Typed Array
+      - [vecmath#performance](https://github.com/mattdesl/vecmath#performance)
   - Loader
     - [resl](https://github.com/regl-project/resl)
     - [opentype.js](https://github.com/nodebox/opentype.js)
