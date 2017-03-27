@@ -8,6 +8,7 @@ Things I used when developing WebGL games.
 
   - Math
     - [Handness in Math](./docs/handness-in-math.md)
+    - [Composing Transformations](./docs/composing_transformations.pdf)
   - Graphics
     - [blending](https://threejs.org/examples/#webgl_materials_blending)
     - [blending-custom](https://threejs.org/examples/#webgl_materials_blending_custom)
