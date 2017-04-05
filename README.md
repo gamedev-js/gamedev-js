@@ -125,7 +125,7 @@ Things I used when developing WebGL games.
   - [glsl-numerify](https://github.com/realazthat/glsl-numerify)
   - Devtools
     - [insight](https://github.com/3Dparallax/insight)
-    - [audion] (https://github.com/google/audion)
+    - [audion](https://github.com/google/audion)
     - [vector-devtools](https://github.com/disjukr/vector-devtools)
     - [devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend)
       - [devtools source in chromium](https://chromium.googlesource.com/chromium/src.git/+/master/third_party/WebKit/Source/devtools)
