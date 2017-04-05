@@ -39,6 +39,8 @@ Things I used when developing WebGL games.
 
 ## Engine Development
 
+  - Data Structure
+    - [BitArray.js](https://github.com/brockwhittaker/BitArray.js)
   - Event
     - [EventEmitter2](https://github.com/asyncly/EventEmitter2)
     - [EventEmitter3](https://github.com/primus/eventemitter3)
