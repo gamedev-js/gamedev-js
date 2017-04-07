@@ -53,10 +53,13 @@ Things I used when developing WebGL games.
     - [particulate-js](https://github.com/jpweeks/particulate-js)
   - Physics
     - [verlet-js](https://github.com/subprotocol/verlet-js)
-    - [cannon.js](https://github.com/schteppe/cannon.js)
-    - [p2.js](https://github.com/schteppe/p2.js)
-    - [Oimo.js](https://github.com/lo-th/Oimo.js)
-    - [ammo.js](https://github.com/kripken/ammo.js/)
+    - 2D
+      - [p2.js](https://github.com/schteppe/p2.js)
+      - [planck.js](https://github.com/shakiba/planck.js)
+    - 3D
+      - [cannon.js](https://github.com/schteppe/cannon.js)
+      - [Oimo.js](https://github.com/lo-th/Oimo.js)
+      - [ammo.js](https://github.com/kripken/ammo.js/)
 
 ## Authoring Tools Development
 
