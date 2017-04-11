@@ -32,6 +32,8 @@ Things I used when developing WebGL games.
   - Geometry
     - [earcut](https://github.com/mapbox/earcut)
     - [lineclip](https://github.com/mapbox/lineclip)
+  - Post Process
+    - [StackBlur](https://github.com/flozz/StackBlur)
   - Platform Support
     - [WebGL Report](http://webglreport.com/)
     - [WebGL Texture Tester](http://toji.github.io/texture-tester/)
