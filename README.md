@@ -23,6 +23,7 @@ Things I used when developing WebGL games.
   - Math
     - [vmath](https://github.com/gamedev-js/vmath)
     - [gl-matrix](https://github.com/toji/gl-matrix)
+    - [bit-twiddle](https://github.com/mikolalysenko/bit-twiddle)
     - Performance Discussion
       - Hidden Classes + Inline Caching is faster than Typed Array
       - [vecmath#performance](https://github.com/mattdesl/vecmath#performance)
