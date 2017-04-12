@@ -25,8 +25,12 @@ Things I used when developing WebGL games.
     - [gl-matrix](https://github.com/toji/gl-matrix)
     - [bit-twiddle](https://github.com/mikolalysenko/bit-twiddle)
     - Performance Discussion
-      - Hidden Classes + Inline Caching is faster than Typed Array
+      - **Conclusion:** Hidden Classes + Inline Caching is much faster than Typed Array in both creating and indexing.
       - [vecmath#performance](https://github.com/mattdesl/vecmath#performance)
+      - [three.js#1703: Vertex to extend Vector3?](https://github.com/mrdoob/three.js/issues/1703)
+      - [cannon.js#8: Float32Array vs Vec3](https://github.com/schteppe/cannon.js/issues/8)
+      - [Efficient JavaScript Vector Math](http://media.tojicode.com/sfjs-vectors/)
+        - This slides is wrong about Typed Array indexing performance, actually the Vector object wins.
   - Loader
     - [resl](https://github.com/regl-project/resl)
     - [opentype.js](https://github.com/nodebox/opentype.js)
