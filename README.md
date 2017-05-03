@@ -134,6 +134,7 @@ Things I used when developing WebGL games.
 
 ## Debug
 
+  - [Spector.js](https://github.com/BabylonJS/Spector.js)
   - [WebGL-Inspector](http://benvanik.github.io/WebGL-Inspector/)
   - [glsl-numerify](https://github.com/realazthat/glsl-numerify)
   - Devtools
