@@ -44,6 +44,11 @@ Things I used when developing WebGL games.
     - [WebGL Texture Tester](http://toji.github.io/texture-tester/)
     - [WebGL Stats](http://webglstats.com/)
 
+## Audio Development
+
+  - [web-audio-engine](https://github.com/mohayonao/web-audio-engine)
+  - [pizzicato](https://github.com/alemangui/pizzicato)
+
 ## Engine Development
 
   - Data Structure
