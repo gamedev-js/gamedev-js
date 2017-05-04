@@ -84,6 +84,7 @@ Things I used when developing WebGL games.
 
   - [bash-concurrent](https://github.com/themattrix/bash-concurrent)
   - [rollup](https://github.com/rollup/rollup/)
+  - [buble](https://gitlab.com/Rich-Harris/buble)
 
 ## Authoring Tools
 
@@ -160,6 +161,7 @@ Things I used when developing WebGL games.
   - [optimize-js](https://github.com/nolanlawson/optimize-js)
   - [disc](https://github.com/hughsk/disc)
   - [jsperf.com](https://jsperf.com/)
+  - [prepack](https://github.com/facebook/prepack)
 
 ## Demo Tools
 
