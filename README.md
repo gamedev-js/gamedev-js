@@ -168,8 +168,11 @@ Things I used when developing WebGL games.
   - [ccapture.js](https://github.com/spite/ccapture.js)
   - [gifgen](https://github.com/lukechilds/gifgen)
 
-## Guideline
+## Documentation Development
 
-  - [Airbnb: JavaScript Style Guide](https://github.com/airbnb/javascript)
-  - [JavaScript SDK Design Guide](http://sdk-design.js.org/)
-  - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+  - [mermaid](https://github.com/knsv/mermaid)
+  - [documentation.js](https://github.com/documentationjs/documentation)
+  - Guideline
+    - [Airbnb: JavaScript Style Guide](https://github.com/airbnb/javascript)
+    - [JavaScript SDK Design Guide](http://sdk-design.js.org/)
+    - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
