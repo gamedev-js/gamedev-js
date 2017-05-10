@@ -43,6 +43,8 @@ Things I used when developing WebGL games.
     - [WebGL Report](http://webglreport.com/)
     - [WebGL Texture Tester](http://toji.github.io/texture-tester/)
     - [WebGL Stats](http://webglstats.com/)
+  - Misc
+    - [Beware of Transparent Pixels](http://www.adriancourreges.com/blog/2017/05/09/beware-of-transparent-pixels/)
 
 ## Audio Development
 
@@ -79,6 +81,12 @@ Things I used when developing WebGL games.
   - [electron-utils](https://github.com/electron-utils)
   - [SonyWWS/ATF](https://github.com/SonyWWS/ATF)
   - [litegraph.js](https://github.com/jagenjo/litegraph.js)
+
+## Multiplayer Development
+
+  - [HappyFunTimes](https://github.com/greggman/HappyFunTimes)
+  - [SocketCluster](http://socketcluster.io/)
+    - [iogrid](https://github.com/SocketCluster/iogrid)
 
 ## Build Tools
 
