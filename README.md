@@ -104,6 +104,7 @@ Things I used when developing WebGL games.
     - [shadergraph](https://github.com/unconed/shadergraph)
     - [kodelife](https://hexler.net/software/kodelife)
       - [ShaderSketches](https://github.com/keijiro/ShaderSketches)
+    - [glslEditor](https://github.com/patriciogonzalezvivo/glslEditor)
   - Procedural Texture
     - [texgen.js](https://github.com/mrdoob/texgen.js/)
     - [simplex-noise.js](https://github.com/jwagner/simplex-noise.js)
