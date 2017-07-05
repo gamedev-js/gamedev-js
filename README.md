@@ -44,6 +44,8 @@ Things I used when developing WebGL games.
     - [WebGL Report](http://webglreport.com/)
     - [WebGL Texture Tester](http://toji.github.io/texture-tester/)
     - [WebGL Stats](http://webglstats.com/)
+  - Shader Transpiling
+    - [glslify](https://github.com/stackgl/glslify)
   - Misc
     - [Beware of Transparent Pixels](http://www.adriancourreges.com/blog/2017/05/09/beware-of-transparent-pixels/)
 
