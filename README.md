@@ -4,17 +4,28 @@ Things I used when developing WebGL games.
 
 **NOTE:** This is **NOT** another `awesome-*` repo which contains a huge list of what ever they can. The list below are things I really used and evaluated during my development of WebGL games and libraries. It will not growing too fast and I'm trying to remove seldom used, out-of-date stuffs when there is a better alternative.
 
-## Quick Reference
+## Quick References
 
   - Math
+    - [Basic Math Symbols](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm)
     - [Handness in Math](./docs/handness-in-math.md)
     - [Composing Transformations](./docs/composing_transformations.pdf)
+    - [Easings](http://easings.net/)
+    - [Math For Motion](https://soulwire.co.uk/math-for-motion/)
   - Graphics
     - [blending](https://threejs.org/examples/#webgl_materials_blending)
     - [blending-custom](https://threejs.org/examples/#webgl_materials_blending_custom)
+    - [PBR Cheat Sheet](https://www.artstation.com/artwork/YeBr3)
+  - API References
+    - [HTML Canvas Cheatsheet](https://skilled.co/html-canvas/images/HTML_Canvas_Cheatsheet.pdf)
+    - [WebGL Quick Reference](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf)
+    - [OpenGL ES shading language reference](http://www.shaderific.com/glsl/)
+    - [OpenGL 4.3 Quick Reference](https://www.khronos.org/files/opengl43-quick-reference-card.pdf)
+    - [docs.GL (OpenGL API Documentation)](http://docs.gl/)
   - Misc
     - [Input Lag](./docs/input-lag.md)
     - [Lighintg Guide](./docs/lighting-guide.md)
+    - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 
 ## Graphics Development (mainly for WebGL)
 
@@ -102,11 +113,15 @@ Things I used when developing WebGL games.
   - Scene Design
     - [webglstudio.js](https://github.com/jagenjo/webglstudio.js)
     - [three.js editor](https://threejs.org/editor/)
+    - [Structure Synth](http://structuresynth.sourceforge.net/index.php)
   - Shading
     - [shadergraph](https://github.com/unconed/shadergraph)
     - [kodelife](https://hexler.net/software/kodelife)
       - [ShaderSketches](https://github.com/keijiro/ShaderSketches)
     - [glslEditor](https://github.com/patriciogonzalezvivo/glslEditor)
+    - [Shadertoy](https://www.shadertoy.com/)
+    - [GLSLbin](http://glslb.in/)
+    - [GLSL Sandbox](http://glslsandbox.com/)
   - Procedural Texture
     - [texgen.js](https://github.com/mrdoob/texgen.js/)
     - [simplex-noise.js](https://github.com/jwagner/simplex-noise.js)
