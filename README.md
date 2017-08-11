@@ -95,6 +95,7 @@ Things I used when developing WebGL games.
   - [electron-utils](https://github.com/electron-utils)
   - [SonyWWS/ATF](https://github.com/SonyWWS/ATF)
   - [litegraph.js](https://github.com/jagenjo/litegraph.js)
+  - [mxgraph](https://github.com/jgraph/mxgraph)
 
 ## Multiplayer Development
 
