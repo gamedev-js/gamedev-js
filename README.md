@@ -26,6 +26,7 @@ Things I used when developing WebGL games.
     - [Input Lag](./docs/input-lag.md)
     - [Lighintg Guide](./docs/lighting-guide.md)
     - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
+    - [A Study Path for Game Programmer](https://github.com/miloyip/game-programmer)
 
 ## Graphics Development (mainly for WebGL)
 
