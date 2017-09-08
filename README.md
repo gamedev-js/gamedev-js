@@ -117,6 +117,12 @@ Things I used when developing WebGL games.
     - [webglstudio.js](https://github.com/jagenjo/webglstudio.js)
     - [three.js editor](https://threejs.org/editor/)
     - [Structure Synth](http://structuresynth.sourceforge.net/index.php)
+  - Modeling
+    - [solvespace](https://github.com/solvespace/solvespace)
+    - [blender](https://www.blender.org/)
+    - [SketchUp](https://www.sketchup.com/)
+  - VFX
+    - [PopcornFX](https://www.popcornfx.com/)
   - Shading
     - [shadergraph](https://github.com/unconed/shadergraph)
     - [kodelife](https://hexler.net/software/kodelife)
@@ -133,7 +139,7 @@ Things I used when developing WebGL games.
     - [neo](https://github.com/lo-th/neo)
     - [timeline.js](https://github.com/vorg/timeline.js)
     - [mojs](https://github.com/legomushroom/mojs)
-  - Misc
+  - GamePlay
     - [rot.js](https://github.com/ondras/rot.js)
 
 ## Data Pipeline Tools
