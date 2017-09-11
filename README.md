@@ -22,6 +22,8 @@ Things I used when developing WebGL games.
     - [OpenGL ES shading language reference](http://www.shaderific.com/glsl/)
     - [OpenGL 4.3 Quick Reference](https://www.khronos.org/files/opengl43-quick-reference-card.pdf)
     - [docs.GL (OpenGL API Documentation)](http://docs.gl/)
+  - Language
+    - [The Modern JavaScript Tutorial](https://javascript.info/)
   - Misc
     - [Input Lag](./docs/input-lag.md)
     - [Lighintg Guide](./docs/lighting-guide.md)
@@ -50,6 +52,7 @@ Things I used when developing WebGL games.
   - Geometry
     - [earcut](https://github.com/mapbox/earcut)
     - [lineclip](https://github.com/mapbox/lineclip)
+    - [geometry-processing-js](https://github.com/GeometryCollective/geometry-processing-js)
   - Post Process
     - [StackBlur](https://github.com/flozz/StackBlur)
   - Platform Support
