@@ -213,5 +213,5 @@ Things I used when developing WebGL games.
   - [documentation.js](https://github.com/documentationjs/documentation)
   - Guideline
     - [Airbnb: JavaScript Style Guide](https://github.com/airbnb/javascript)
-    - [JavaScript SDK Design Guide](http://sdk-design.js.org/)
+    - [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design)
     - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
