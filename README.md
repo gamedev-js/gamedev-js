@@ -11,6 +11,7 @@ Things I used when developing WebGL games.
     - [Handness in Math](./docs/handness-in-math.md)
     - [Composing Transformations](./docs/composing_transformations.pdf)
     - [Easings](http://easings.net/)
+    - [Tweeny Easing Functions](http://greggman.github.io/doodles/tweeny-graph.html)
     - [Math For Motion](https://soulwire.co.uk/math-for-motion/)
   - Graphics
     - [blending](https://threejs.org/examples/#webgl_materials_blending)
