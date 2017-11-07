@@ -9,6 +9,7 @@ Things I used when developing WebGL games.
   - Math
     - [Basic Math Symbols](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm)
     - [Handness in Math](./docs/handness-in-math.md)
+    - [Triangle Functions](./docs/triangle-functions.md)
     - [Composing Transformations](./docs/composing_transformations.pdf)
     - [Easings](http://easings.net/)
     - [Tweeny Easing Functions](http://greggman.github.io/doodles/tweeny-graph.html)
