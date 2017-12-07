@@ -211,6 +211,7 @@ Things I used when developing WebGL games.
 
   - [ccapture.js](https://github.com/spite/ccapture.js)
   - [gifgen](https://github.com/lukechilds/gifgen)
+  - [screengif](https://github.com/dergachev/screengif)
 
 ## Documentation Development
 
