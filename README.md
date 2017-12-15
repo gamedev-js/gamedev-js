@@ -51,9 +51,12 @@ Things I used when developing WebGL games.
       - [cannon.js#8: Float32Array vs Vec3](https://github.com/schteppe/cannon.js/issues/8)
       - [Efficient JavaScript Vector Math](http://media.tojicode.com/sfjs-vectors/)
         - This slides is wrong about Typed Array indexing performance, actually the Vector object wins.
-  - Loader
+  - Resource Loader
+    - [resource-loader](https://github.com/englercj/resource-loader)
     - [resl](https://github.com/regl-project/resl)
+  - Resource Parser
     - [opentype.js](https://github.com/nodebox/opentype.js)
+    - [parsers in three.js](https://github.com/mrdoob/three.js/tree/dev/examples/js/loaders)
   - Geometry
     - [earcut](https://github.com/mapbox/earcut)
     - [lineclip](https://github.com/mapbox/lineclip)
