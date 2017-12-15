@@ -91,6 +91,11 @@ Things I used when developing WebGL games.
     - [hammer.js](https://github.com/hammerjs/hammer.js)
   - Animation
     - [fullik](https://github.com/lo-th/fullik)
+  - Tween
+    - [bezier-easing](https://github.com/gre/bezier-easing)
+    - [tween.js](https://github.com/tweenjs/tween.js)
+    - [anime](https://github.com/juliangarnier/anime)
+    - [mojs](https://github.com/legomushroom/mojs)
   - Particle
     - [Proton](https://github.com/a-jie/Proton)
       - [three.proton](https://github.com/a-jie/three.proton)
@@ -153,7 +158,7 @@ Things I used when developing WebGL games.
   - Timeline
     - [neo](https://github.com/lo-th/neo)
     - [timeline.js](https://github.com/vorg/timeline.js)
-    - [mojs](https://github.com/legomushroom/mojs)
+    - [spirit](https://github.com/spirit/spirit)
   - GamePlay
     - [rot.js](https://github.com/ondras/rot.js)
 
