@@ -92,6 +92,8 @@ Things I used when developing WebGL games.
   - Animation
     - [fullik](https://github.com/lo-th/fullik)
   - Particle
+    - [Proton](https://github.com/a-jie/Proton)
+      - [three.proton](https://github.com/a-jie/three.proton)
     - [particulate-js](https://github.com/jpweeks/particulate-js)
   - Physics
     - [verlet-js](https://github.com/subprotocol/verlet-js)
