@@ -100,6 +100,7 @@ Things I used when developing WebGL games.
     - 2D
       - [p2.js](https://github.com/schteppe/p2.js)
       - [planck.js](https://github.com/shakiba/planck.js)
+      - [matter-js](https://github.com/liabru/matter-js)
     - 3D
       - [cannon.js](https://github.com/schteppe/cannon.js)
       - [Oimo.js](https://github.com/lo-th/Oimo.js)
