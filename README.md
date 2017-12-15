@@ -58,6 +58,7 @@ Things I used when developing WebGL games.
     - [opentype.js](https://github.com/nodebox/opentype.js)
     - [parsers in three.js](https://github.com/mrdoob/three.js/tree/dev/examples/js/loaders)
   - Geometry
+    - [cdt2d](https://github.com/mikolalysenko/cdt2d)
     - [earcut](https://github.com/mapbox/earcut)
     - [lineclip](https://github.com/mapbox/lineclip)
     - [geometry-processing-js](https://github.com/GeometryCollective/geometry-processing-js)
