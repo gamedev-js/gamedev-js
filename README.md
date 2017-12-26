@@ -62,6 +62,7 @@ Things I used when developing WebGL games.
     - [earcut](https://github.com/mapbox/earcut)
     - [lineclip](https://github.com/mapbox/lineclip)
     - [geometry-processing-js](https://github.com/GeometryCollective/geometry-processing-js)
+    - [poly-decomp.js](https://github.com/schteppe/poly-decomp.js)
   - Post Process
     - [StackBlur](https://github.com/flozz/StackBlur)
   - Platform Support
