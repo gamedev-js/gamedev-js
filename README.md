@@ -97,6 +97,7 @@ Things I used when developing WebGL games.
     - [tween.js](https://github.com/tweenjs/tween.js)
     - [anime](https://github.com/juliangarnier/anime)
     - [mojs](https://github.com/legomushroom/mojs)
+    - [kute.js](https://github.com/thednp/kute.js)
   - Particle
     - [Proton](https://github.com/a-jie/Proton)
       - [three.proton](https://github.com/a-jie/three.proton)
