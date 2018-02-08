@@ -51,12 +51,6 @@ Things I used when developing WebGL games.
       - [cannon.js#8: Float32Array vs Vec3](https://github.com/schteppe/cannon.js/issues/8)
       - [Efficient JavaScript Vector Math](http://media.tojicode.com/sfjs-vectors/)
         - This slides is wrong about Typed Array indexing performance, actually the Vector object wins.
-  - Resource Loader
-    - [resource-loader](https://github.com/englercj/resource-loader)
-    - [resl](https://github.com/regl-project/resl)
-  - Resource Parser
-    - [opentype.js](https://github.com/nodebox/opentype.js)
-    - [parsers in three.js](https://github.com/mrdoob/three.js/tree/dev/examples/js/loaders)
   - Geometry
     - [cdt2d](https://github.com/mikolalysenko/cdt2d)
     - [earcut](https://github.com/mapbox/earcut)
@@ -84,6 +78,9 @@ Things I used when developing WebGL games.
   - Data Structure
     - [memop](https://github.com/gamedev-js/memop)
     - [BitArray.js](https://github.com/brockwhittaker/BitArray.js)
+  - Resource Loader
+    - [resource-loader](https://github.com/englercj/resource-loader)
+    - [resl](https://github.com/regl-project/resl)
   - Event
     - [EventEmitter2](https://github.com/asyncly/EventEmitter2)
     - [EventEmitter3](https://github.com/primus/eventemitter3)
@@ -166,6 +163,10 @@ Things I used when developing WebGL games.
 
 ## Data Pipeline Tools
 
+  - Resource Parser
+    - [opentype.js](https://github.com/nodebox/opentype.js)
+    - [parsers in three.js](https://github.com/mrdoob/three.js/tree/dev/examples/js/loaders)
+    - [binary-parser](https://github.com/keichi/binary-parser)
   - Geometry
     - [glTF](https://github.com/KhronosGroup/glTF)
     - [meshoptimizer](https://github.com/zeux/meshoptimizer)
