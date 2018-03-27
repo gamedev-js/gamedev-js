@@ -169,6 +169,7 @@ Things I used when developing WebGL games.
     - [opentype.js](https://github.com/nodebox/opentype.js)
     - [parsers in three.js](https://github.com/mrdoob/three.js/tree/dev/examples/js/loaders)
     - [binary-parser](https://github.com/keichi/binary-parser)
+    - [jBinary](https://github.com/jDataView/jBinary)
   - Geometry
     - [glTF](https://github.com/KhronosGroup/glTF)
     - [meshoptimizer](https://github.com/zeux/meshoptimizer)
