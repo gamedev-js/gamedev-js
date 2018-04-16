@@ -136,6 +136,8 @@ Things I used when developing WebGL games.
     - [webglstudio.js](https://github.com/jagenjo/webglstudio.js)
     - [three.js editor](https://threejs.org/editor/)
     - [Structure Synth](http://structuresynth.sourceforge.net/index.php)
+  - Math
+    - [ganja.js](https://github.com/enkimute/ganja.js)
   - Modeling
     - [solvespace](https://github.com/solvespace/solvespace)
     - [blender](https://www.blender.org/)
